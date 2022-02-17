@@ -6,7 +6,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrealopez-code&show_icons=true&locale=en&layout=compact" alt="andrealopez-code" /></p>
 
-  
+ <h3 Stats </h3> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrealopez-code&show_icons=true&locale=en" alt="andrealopez-code" /></p>  
 
 
